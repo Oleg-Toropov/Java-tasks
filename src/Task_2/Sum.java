@@ -19,7 +19,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Summ {
+public class Sum {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(new FileReader("task-2-input.txt"));
              FileWriter writer = new FileWriter("task-2-output.txt")
