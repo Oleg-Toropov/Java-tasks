@@ -5,15 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82d18727-43bc-4934-a488-397162825ff2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_3/Beads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_4/Decision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-3-input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-3-output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-4-input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-4-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_10/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_11/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_12/Arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_13/Basketball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_14/StrawberryPicking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_15/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_5/Comparing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_6/Nuts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_7/Weight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_8/Gulliver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_9/Bandits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-10-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-10-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-11-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-11-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-12-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-12-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-13-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-13-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-14-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-14-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-15-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-5-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-5-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-6-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-6-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-7-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-7-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-8-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-8-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-9-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-9-output.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_2/Summ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_2/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
