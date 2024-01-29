@@ -5,35 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82d18727-43bc-4934-a488-397162825ff2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task_16/Cranes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_17/ThreeFatMen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_18/BinNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_19/Coins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_20/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_20/TwentyFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_21/Mouse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_22/Turn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_24/Aliens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_25/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_26/GoldSand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-16-input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-16-output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-17-input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-17-output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-18-input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-18-output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-19-input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-20-input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-20-output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-21-input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-21-output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-22-input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-22-output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-24-input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-24-output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-25-input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-25-output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-26-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_27/Parallelepiped.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_29/Alcohol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_30/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_31/Keyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_32/StateMachines.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_33/Repair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_34/Alarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_35/LengthLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_36/Conditioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_37/HappyTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-27-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-27-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-29-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-29-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-30-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-30-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-31-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-31-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-32-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-32-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-33-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-33-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-34-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-35-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-35-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-36-input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-36-output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-37-input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,15 +61,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/HP-User/Desktop/Java-tasks"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP-User/Desktop/Java-tasks&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP-User\Desktop\Java-tasks" />
@@ -87,6 +86,17 @@
       <updated>1706107851820</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
