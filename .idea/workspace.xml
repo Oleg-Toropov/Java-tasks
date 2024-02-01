@@ -5,86 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82d18727-43bc-4934-a488-397162825ff2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_38/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_39/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_40/Flowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_41/FortuneTelling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_42/ProgrammersDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_43/Spelling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_44/LinesInBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_45/BusTour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_46/Watermelons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_47/EveryoneKnows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_48/Tea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_49/ArithmeticProgression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_50/TimeArrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_52/PlayingDice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_53/Cell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_54/Thimbles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_55/Divider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_56/Census.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_57/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_59/Statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_60/Herons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_61/OneStepFromHappiness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_62/Units.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-1-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-1-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-10-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-10-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-11-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-11-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-12-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-12-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-13-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-13-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-14-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-14-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-15-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-15-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-16-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-16-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-17-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-17-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-18-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-18-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-19-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-2-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-2-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-20-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-20-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-21-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-21-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-22-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-22-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-24-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-24-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-25-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-25-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-26-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-26-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-27-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-27-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-29-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-29-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-3-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-3-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-30-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-30-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-31-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-31-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-32-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-32-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-33-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-33-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-34-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-34-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-35-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-35-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-36-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-36-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-37-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-37-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-4-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-4-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-5-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-5-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-6-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-6-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-7-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-7-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-8-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-8-output.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-9-input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-9-output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,19 +50,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP-User/Desktop/Java-tasks&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/HP-User/Desktop/Java-tasks/src"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\HP-User\Desktop\Java-tasks" />
       <recent name="C:\Users\HP-User\Desktop\Java-tasks\src" />
+      <recent name="C:\Users\HP-User\Desktop\Java-tasks" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -151,5 +89,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
