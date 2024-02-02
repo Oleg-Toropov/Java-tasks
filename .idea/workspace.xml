@@ -5,21 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82d18727-43bc-4934-a488-397162825ff2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task_46/Watermelons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_47/EveryoneKnows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_48/Tea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_49/ArithmeticProgression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_50/TimeArrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_52/PlayingDice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_53/Cell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_54/Thimbles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_55/Divider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_56/Census.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_57/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_59/Statistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_60/Herons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_61/OneStepFromHappiness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_62/Units.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_63/Zeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_64/BusNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_65/Subway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_66/Roundels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_67/Fields.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_68/FibonacciNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_69/ChessField.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
@@ -56,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/HP-User/Desktop/Java-tasks/src"
+    "last_opened_file_path": "C:/Users/HP-User/Desktop/Обучение JAVA 12.2023/IdeaProjects старое/02. Java продвинутая"
   }
 }]]></component>
   <component name="RecentsManager">
