@@ -9,25 +9,6 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-/*
-Длина отрезка (12%)
-Время: 1 сек.
-Память: 16 Мб
-Сложность: 12%
-
-Отрезок задан координатами своих концевых точек. Требуется вычислить длину этого отрезка.
-
-Формат ввода
-Входной файл INPUT.TXT содержит координаты концов отрезка в формате X1 Y1 X2 Y2 . Все координаты – целые числа,
-не превышающие 1000 по абсолютной величине.
-
-Формат вывода
-В выходной файл OUTPUT.TXT выведите длину отрезка с точностью 10-5.
-
-Примеры
-Ввод	    Вывод
-3 4 8 4	    5
- */
 public class LengthLine {
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>();

@@ -2,30 +2,8 @@ package Task_22;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Scanner;
 
-/*
-Разворот (9%)
-Время: 1 сек.
-Память: 16 Мб
-Сложность: 9%
-
-Дано натуральное число N и последовательность из N элементов. Требуется вывести эту последовательность в обратном
-порядке.
-
-Формат ввода
-В первой строке входного файла input.txt записано натуральное число N (N ≤ 103). Во второй строке через пробел идут
-N целых чисел, по модулю не превосходящих 103 - элементы последовательности.
-
-Формат вывода
-В выходной файл output.txt выведите заданную последовательность в обратном порядке.
-
-Примеры
-Ввод	Вывод
-3
-1 2 3	3 2 1
- */
 public class Turn {
     public static void main(String[] args) throws IOException {
         ArrayList<Integer> list = new ArrayList<>();
