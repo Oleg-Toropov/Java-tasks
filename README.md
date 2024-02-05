@@ -20,5 +20,62 @@
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_17" target="_blank">Три толстяка</a> (7%)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_18" target="_blank">Бинарные числа</a> (8%)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_19" target="_blank">Монетки</a> (8%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_20" target="_blank">Пятью пять - двадцать пять!</a> (8%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_21" target="_blank">Мышка</a> (9%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_22" target="_blank">Разворот</a> (9%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_24" target="_blank">Внеземные гости</a> (10%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_25" target="_blank">Время года</a> (10%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_26" target="_blank">Золотой песок</a> (10%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_27" target="_blank">Прямоугольный параллелепипед</a> (10%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_29" target="_blank">Спирт</a> (10%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_30" target="_blank">Четырехзначный палиндром</a> (10%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_31" target="_blank">Клавиатура</a> (11%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_32" target="_blank">Конечные автоматы</a> (11%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_33" target="_blank">Ремонт</a> (11%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_34" target="_blank">Будильник</a> (12%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_35" target="_blank">Длина отрезка</a> (12%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_36" target="_blank">Кондиционер</a> (12%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_37" target="_blank">Счастливый билет</a> (12%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_38" target="_blank">Телефон</a> (12%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_39" target="_blank">Треугольник - 3</a> (12%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_40" target="_blank">Цветочки</a> (12%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_41" target="_blank">Гадание</a> (13%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_42" target="_blank">День программиста</a> (13%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_43" target="_blank">Орфография</a> (13%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_44" target="_blank">Строки в книге</a> (13%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_45" target="_blank">Автобусная экскурсия</a> (14%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_46" target="_blank">Арбузы</a> (14%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_47" target="_blank">Всем известно</a> (14%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_48" target="_blank">Кипячение чая</a> (14%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_49" target="_blank">Арифметическая прогрессия</a> (15%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_50" target="_blank">Время прибытия</a> (15%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_52" target="_blank">Игральные кубики</a> (15%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_53" target="_blank">Клетки</a> (15%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_54" target="_blank">Напёрстки</a> (15%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_55" target="_blank">НОД</a> (15%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_56" target="_blank">Перепись</a> (15%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_57" target="_blank">Площадь треугольника</a> (15%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_59" target="_blank">Статистика</a> (15%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_60" target="_blank">Цапли</a> (15%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_61" target="_blank">В одном шаге от счастья</a> (16%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_62" target="_blank">Единицы</a> (16%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_63" target="_blank">Нули</a> (16%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_64" target="_blank">Номера автобусов</a> (16%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_65" target="_blank">Метро</a> (16%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_66" target="_blank">Кругляши</a> (16%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_67" target="_blank">Поля</a> (16%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_68" target="_blank">Числа Фибоначчи</a> (16%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_69" target="_blank">Шахматное поле</a> (16%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_70" target="_blank">Кольцо</a> (16%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_71" target="_blank">Болты и гайки</a> (17%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_72" target="_blank">Оттепель</a> (17%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_73" target="_blank">Манхэттенские улицы</a> (17%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_74" target="_blank">Сбор черники</a> (17%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_75" target="_blank">Миша и негатив</a> (17%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_77" target="_blank">NEERC</a> (17%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_78" target="_blank">Две окружности</a> (17%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_79" target="_blank">Дороги</a> (18%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_80" target="_blank">Загадка</a> (18%)</li>
+    
 
 </ol>
