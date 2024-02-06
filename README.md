@@ -76,6 +76,16 @@
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_78" target="_blank">Две окружности</a> (17%)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_79" target="_blank">Дороги</a> (18%)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_80" target="_blank">Загадка</a> (18%)</li>
-    
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_81" target="_blank">Офис</a> (18%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_82" target="_blank">Соревнование картингистов</a> (18%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_83" target="_blank">Шахматная доска - 2</a> (18%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_84" target="_blank">В автобусе</a> (18%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_85" target="_blank">НОК</a> (19%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_86" target="_blank">Сумма</a> (19%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_87" target="_blank">Сжатие бинарных последовательностей</a> (19%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_88" target="_blank">Симметрия</a> (19%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_89" target="_blank">Игра с ладьей</a> (19%)</li>
+
+
 
 </ol>
