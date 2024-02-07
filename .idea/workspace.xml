@@ -5,29 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82d18727-43bc-4934-a488-397162825ff2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task_81/Office.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_82/KartingCompetition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_83/ChessBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_84/InBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_85/NOK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_86/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_87/CompressionOfBinarySequences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_88/Symmetry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_89/PlayingWithRook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_100/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_90/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_91/Boxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_91/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_92/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_92/TicTacToe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_93/NameTeams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_93/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_94/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_94/TimeKey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_95/Details.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_95/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_96/CrisisBusiness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_96/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_97/Arrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_97/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_98/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_98/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_99/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_55/Divider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_55/Divider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_81/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_81/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_82/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_82/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_83/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_83/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_84/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_84/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_85/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_85/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_86/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_86/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_87/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_87/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_88/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_88/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_89/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_89/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_88/Symmetry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_88/Symmetry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_89/PlayingWithRook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_89/PlayingWithRook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_90/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_90/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -1,6 +1,5 @@
 package Task_89;
 
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -18,6 +17,4 @@ public class PlayingWithRook {
         writer.write(result);
         writer.close();
     }
-
-
 }

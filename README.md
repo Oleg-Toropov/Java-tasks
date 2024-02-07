@@ -85,6 +85,17 @@
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_87" target="_blank">Сжатие бинарных последовательностей</a> (19%)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_88" target="_blank">Симметрия</a> (19%)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_89" target="_blank">Игра с ладьей</a> (19%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_90" target="_blank">Кастинг</a> (19%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_91" target="_blank">Коробки</a> (19%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_92" target="_blank">Крестики-нолики</a> (19%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_93" target="_blank">ACM World Finals</a> (19%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_94" target="_blank">Временной ключ</a> (20%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_95" target="_blank">Детали</a> (20%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_96" target="_blank">Кризисный бизнес</a> (20%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_97" target="_blank">Стрелки</a> (20%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_98" target="_blank">Пицца</a> (20%)</li>
+
+
 
 
 
