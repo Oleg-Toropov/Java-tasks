@@ -1,14 +1,13 @@
-package Task_96;
+package Task_106;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Scanner;
 
-public class CrisisBusiness {
+public class Taxes {
     public static void main(String[] args) {
         ArrayList<Integer> data = new ArrayList<>();
 
@@ -20,26 +19,22 @@ public class CrisisBusiness {
             throw new RuntimeException(e);
         }
 
-        int amountCars = data.get(0);
-        int amountMoney = data.get(1);
-        data.remove(0);
-        data.remove(0);
-        Collections.sort(data);
+        double maxTax = 0;
+        int number = 1;
 
-        int countPayCars = 0;
-        int costs = 0;
+        for (int i = 1; i < data.size() - data.get(0); i++) {
+            double income = data.get(i);
+            double percent = data.get(i + data.get(0));
+            double tax = income * percent / 100;
 
-        for (Integer i : data) {
-            if (costs + i <= amountMoney && countPayCars <= amountCars) {
-                costs +=i;
-                countPayCars++;
-            }else {
-                break;
+            if (tax > maxTax) {
+                maxTax = tax;
+                number = i;
             }
         }
 
-        try(FileWriter writer = new FileWriter("output.txt")) {
-            writer.write(String.valueOf(countPayCars));
+        try (FileWriter writer = new FileWriter("output.txt")){
+            writer.write(String.valueOf(number));
         } catch (IOException e) {
             throw new RuntimeException(e);
         }

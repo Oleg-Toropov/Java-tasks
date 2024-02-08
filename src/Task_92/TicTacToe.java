@@ -9,13 +9,13 @@ import java.util.Scanner;
 
 public class TicTacToe {
     public static void main(String[] args) {
-        ArrayList<Character> date = new ArrayList<>();
+        ArrayList<Character> data = new ArrayList<>();
         try (Scanner sc = new Scanner(new FileReader("input.txt"))) {
             while (sc.hasNextLine()) {
                 String s = sc.next();
                 char[] ch = s.toCharArray();
                 for (char c : ch) {
-                    date.add(c);
+                    data.add(c);
                 }
 
             }
@@ -24,22 +24,22 @@ public class TicTacToe {
         }
 
         String player1 =
-                (date.get(0) == 'X' && date.get(1) == 'X' && date.get(2) == 'X'
-                        || date.get(3) == 'X' && date.get(4) == 'X' && date.get(5) == 'X'
-                        || date.get(6) == 'X' && date.get(7) == 'X' && date.get(8) == 'X'
-                        || date.get(0) == 'X' && date.get(3) == 'X' && date.get(6) == 'X'
-                        || date.get(1) == 'X' && date.get(4) == 'X' && date.get(7) == 'X'
-                        || date.get(2) == 'X' && date.get(5) == 'X' && date.get(8) == 'X'
-                        || date.get(0) == 'X' && date.get(4) == 'X' && date.get(8) == 'X'
-                        || date.get(2) == 'X' && date.get(4) == 'X' && date.get(6) == 'X') ? "Win" :
-                        (date.get(0) == 'O' && date.get(1) == 'O' && date.get(2) == 'O'
-                                || date.get(3) == 'O' && date.get(4) == 'O' && date.get(5) == 'O'
-                                || date.get(6) == 'O' && date.get(7) == 'O' && date.get(8) == 'O'
-                                || date.get(0) == 'O' && date.get(3) == 'O' && date.get(6) == 'O'
-                                || date.get(1) == 'O' && date.get(4) == 'O' && date.get(7) == 'O'
-                                || date.get(2) == 'O' && date.get(5) == 'O' && date.get(8) == 'O'
-                                || date.get(0) == 'O' && date.get(4) == 'O' && date.get(8) == 'O'
-                                || date.get(2) == 'O' && date.get(4) == 'O' && date.get(6) == 'O') ? "Lose" : "Draw";
+                (data.get(0) == 'X' && data.get(1) == 'X' && data.get(2) == 'X'
+                        || data.get(3) == 'X' && data.get(4) == 'X' && data.get(5) == 'X'
+                        || data.get(6) == 'X' && data.get(7) == 'X' && data.get(8) == 'X'
+                        || data.get(0) == 'X' && data.get(3) == 'X' && data.get(6) == 'X'
+                        || data.get(1) == 'X' && data.get(4) == 'X' && data.get(7) == 'X'
+                        || data.get(2) == 'X' && data.get(5) == 'X' && data.get(8) == 'X'
+                        || data.get(0) == 'X' && data.get(4) == 'X' && data.get(8) == 'X'
+                        || data.get(2) == 'X' && data.get(4) == 'X' && data.get(6) == 'X') ? "Win" :
+                        (data.get(0) == 'O' && data.get(1) == 'O' && data.get(2) == 'O'
+                                || data.get(3) == 'O' && data.get(4) == 'O' && data.get(5) == 'O'
+                                || data.get(6) == 'O' && data.get(7) == 'O' && data.get(8) == 'O'
+                                || data.get(0) == 'O' && data.get(3) == 'O' && data.get(6) == 'O'
+                                || data.get(1) == 'O' && data.get(4) == 'O' && data.get(7) == 'O'
+                                || data.get(2) == 'O' && data.get(5) == 'O' && data.get(8) == 'O'
+                                || data.get(0) == 'O' && data.get(4) == 'O' && data.get(8) == 'O'
+                                || data.get(2) == 'O' && data.get(4) == 'O' && data.get(6) == 'O') ? "Lose" : "Draw";
 
         try (FileWriter writer = new FileWriter("output.txt")) {
             writer.write(player1);

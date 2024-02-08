@@ -9,19 +9,19 @@ import java.util.StringTokenizer;
 
 public class Boxes {
     public static void main(String[] args) {
-        ArrayList<String> date = new ArrayList<>();
+        ArrayList<String> data = new ArrayList<>();
         ArrayList<Integer> sizeBoxA = new ArrayList<>();
         ArrayList<Integer> sizeBoxB = new ArrayList<>();
 
         try (Scanner sc = new Scanner(new FileReader("input.txt"))) {
             while (sc.hasNextLine()) {
-                date.add(sc.nextLine());
+                data.add(sc.nextLine());
             }
-            StringTokenizer stA = new StringTokenizer(date.get(0));
+            StringTokenizer stA = new StringTokenizer(data.get(0));
             while (stA.hasMoreTokens()) {
                 sizeBoxA.add(Integer.valueOf(stA.nextToken()));
             }
-            StringTokenizer stB = new StringTokenizer(date.get(1));
+            StringTokenizer stB = new StringTokenizer(data.get(1));
             while (stB.hasMoreTokens()) {
                 sizeBoxB.add(Integer.valueOf(stB.nextToken()));
             }

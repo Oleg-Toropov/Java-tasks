@@ -11,20 +11,20 @@ import java.util.StringTokenizer;
 
 public class Details {
     public static void main(String[] args) {
-        ArrayList<String> date = new ArrayList<>();
+        ArrayList<String> data = new ArrayList<>();
 
         try (Scanner sc = new Scanner(new FileReader("input.txt"))) {
             while (sc.hasNextLine()) {
-                date.add(sc.nextLine());
+                data.add(sc.nextLine());
             }
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
         }
 
-        date.remove(0);
+        data.remove(0);
         ArrayList<Integer> countPoints = new ArrayList<>();
 
-        for (String s : date) {
+        for (String s : data) {
             char[] ch = s.toCharArray();
             int count = 0;
             for (char c : ch) {

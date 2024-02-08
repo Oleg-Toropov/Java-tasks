@@ -5,32 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82d18727-43bc-4934-a488-397162825ff2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task_100/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_90/Casting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_91/Boxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_91/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_92/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_92/TicTacToe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_93/NameTeams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_93/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_94/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_94/TimeKey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_95/Details.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_95/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_96/CrisisBusiness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_96/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_97/Arrows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_97/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_98/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_98/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_99/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_100/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_101/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_101/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_102/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_102/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_103/Exams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_103/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_105/CutePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_105/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_106/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_106/Taxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_107/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_107/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_107/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_108/LazyPerson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_108/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_109/HouseSchoolHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_109/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_110/BrokenOnParts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_110/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_111/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_99/NumberE.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_100/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_100/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task_88/Symmetry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_88/Symmetry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_89/PlayingWithRook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_89/PlayingWithRook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_90/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_90/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_91/Boxes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_91/Boxes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_92/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_92/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_93/NameTeams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_93/NameTeams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_95/Details.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_95/Details.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_96/CrisisBusiness.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_96/CrisisBusiness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_97/Arrows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_97/Arrows.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_99/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_99/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,16 +72,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/HP-User/Desktop/Обучение JAVA 12.2023/IdeaProjects старое/02. Java продвинутая"
+    "last_opened_file_path": "C:/Users/HP-User/Desktop/Java-tasks/src"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP-User\Desktop\Java-tasks\src" />
+      <recent name="C:\Users\HP-User\Desktop\Java-tasks\src\Task_100" />
       <recent name="C:\Users\HP-User\Desktop\Java-tasks\src\Task_81" />
       <recent name="C:\Users\HP-User\Desktop\Java-tasks\src\Task_80" />
       <recent name="C:\Users\HP-User\Desktop\Java-tasks\src\Task_79" />
-      <recent name="C:\Users\HP-User\Desktop\Java-tasks\src\Task_78" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\HP-User\Desktop\Java-tasks" />

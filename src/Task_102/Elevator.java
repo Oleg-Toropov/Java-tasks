@@ -1,16 +1,13 @@
-package Task_97;
+package Task_102;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
-public class Arrows {
+public class Elevator {
     public static void main(String[] args) {
-
         String data;
         try (Scanner sc = new Scanner(new FileReader("input.txt"))) {
             data = sc.nextLine();
@@ -18,16 +15,19 @@ public class Arrows {
             throw new RuntimeException(e);
         }
 
-        int count = 0;
+        char[] actions = data.toCharArray();
+        int amountFlours = 1;
 
-        Pattern pattern = Pattern.compile("(?=(<--<<)|(>>-->))");
-        Matcher matcher = pattern.matcher(data);
-        while (matcher.find()) {
-            count++;
+        for (int i = 0; i < actions.length; i++) {
+            if (i != 0 && actions[i] == actions[i - 1]) {
+                amountFlours++;
+            } else if (i == 0) {
+                amountFlours++;
+            }
         }
 
         try (FileWriter writer = new FileWriter("output.txt")){
-            writer.write(String.valueOf(count));
+            writer.write(String.valueOf(amountFlours));
         } catch (IOException e) {
             throw new RuntimeException(e);
         }

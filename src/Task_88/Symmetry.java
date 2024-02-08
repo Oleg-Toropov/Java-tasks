@@ -8,19 +8,19 @@ import java.util.Scanner;
 
 public class Symmetry {
     public static void main(String[] args) throws IOException {
-        ArrayList<Integer> date = new ArrayList<>();
+        ArrayList<Integer> data = new ArrayList<>();
         Scanner sc = new Scanner(new FileReader("input.txt"));
         while (sc.hasNextLine()) {
-            date.add(sc.nextInt());
+            data.add(sc.nextInt());
         }
         int xB, yB;
 
-        if (date.get(0) == date.get(2)) {
-            yB = date.get(5);
-            xB = date.get(0) + date.get(2) - date.get(4);
+        if (data.get(0) == data.get(2)) {
+            yB = data.get(5);
+            xB = data.get(0) + data.get(2) - data.get(4);
         } else {
-            xB = date.get(4);
-            yB = date.get(1) + date.get(3) - date.get(5);
+            xB = data.get(4);
+            yB = data.get(1) + data.get(3) - data.get(5);
         }
 
         FileWriter writer = new FileWriter("output.txt");
