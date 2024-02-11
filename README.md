@@ -105,6 +105,19 @@
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_108" target="_blank">Лентяй</a> (21%)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_109" target="_blank">Дом - Школа - Дом</a> (21%)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_110" target="_blank">Разбиение на части</a> (21%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_111" target="_blank">Лестница</a> (21%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_113" target="_blank">Морской бой</a> (21%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_114" target="_blank">Последняя цифра A^B</a> (21%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_115" target="_blank">Делимость на 11</a> (22%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_116" target="_blank">Али-Баба</a> (22%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_117" target="_blank">Лиса Алиса и кот Базилио</a> (22%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_118" target="_blank">Постоянная Капрекара</a> (22%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_119" target="_blank">Раскраска таблицы умножения</a> (22%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_120" target="_blank">Турист</a> (22%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_121" target="_blank">Карусель</a> (22%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_122" target="_blank">Принц и дракон</a> (22%)</li>
+
+
 
 
 
