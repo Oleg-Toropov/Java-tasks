@@ -116,11 +116,15 @@
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_120" target="_blank">Турист</a> (22%)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_121" target="_blank">Карусель</a> (22%)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_122" target="_blank">Принц и дракон</a> (22%)</li>
-
-
-
-
-
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_123" target="_blank">Соседние клетки</a> (22%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_124" target="_blank">Футбол</a> (22%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_125" target="_blank">Сортировка времени</a> (23%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_126" target="_blank">Наименьшее и наибольшее числа из тех же цифр</a> (23%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_127" target="_blank">Вагоны</a> (23%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_128" target="_blank">Мёд</a> (23%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_129" target="_blank">Игра в числа</a> (23%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_130" target="_blank">Единичный НОД</a> (23%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_131" target="_blank">Шахматы</a> (23%)</li>
 
 
 </ol>
