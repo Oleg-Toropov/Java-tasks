@@ -125,6 +125,15 @@
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_129" target="_blank">Игра в числа</a> (23%)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_130" target="_blank">Единичный НОД</a> (23%)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_131" target="_blank">Шахматы</a> (23%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_132" target="_blank">Наихудший делитель</a> (23%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_133" target="_blank">Снова Фибоначчи</a> (23%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_134" target="_blank">Нумеролог</a> (24%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_135" target="_blank">Одежда</a> (24%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_136" target="_blank">Перестановка</a> (24%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_137" target="_blank">Палиндромное время</a> (24%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_138" target="_blank">Ловушки</a> (24%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_139" target="_blank">Костер</a> (24%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_140" target="_blank">Прыгучее путешествие</a> (24%)</li>
 
 
 </ol>

@@ -4,13 +4,20 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.Map;
 import java.util.Scanner;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 
 public class Chess {
     public static void main(String[] args) {
-        String lettersOnBoard = "ABCDEFGH";
+        Map<Character, Integer> field = IntStream.rangeClosed('A', 'H')
+                .boxed()
+                .collect(Collectors.toMap(
+                        x -> (char) x.intValue(),
+                        x -> x + (1 - 'A')));
+
         String result = null;
         String data;
         try (Scanner sc = new Scanner(new FileReader("input.txt"))) {
@@ -19,33 +26,20 @@ public class Chess {
             throw new RuntimeException(e);
         }
 
-        Pattern pattern = Pattern.compile("[A-H][1-8]-[A-H][1-8]");
-        Matcher matcher = pattern.matcher(data);
-
-        if (matcher.matches()) {
-            char[] letters = lettersOnBoard.toCharArray();
-            char[] moves = data.toCharArray();
-            for (int i = 0; i < letters.length; i++) {
-                if (moves[0] == letters[i]) {
-                    if (i > 1 && moves[3] == letters[i - 2]
-                            || i < letters.length - 2 && moves[3] == letters[i + 2]) {
-                        if (moves[4] == moves[1] - 1 || moves[4] == moves[1] + 1) {
-                            result = "YES";
-                        } else {
-                            result = "NO";
-                        }
-                    } else if (i > 0 && moves[3] == letters[i - 1]
-                            || i < letters.length - 1 && moves[3] == letters[i + 1]) {
-                        if (moves[4] == moves[1] - 2 || moves[4] == moves[1] + 2) {
-                            result = "YES";
-                        } else {
-                            result = "NO";
-                        }
-                    } else {
-                        result = "NO";
-                    }
+        if (data.matches("[A-H][1-8]-[A-H][1-8]")) {
+            char[] ch = data.toCharArray();
+            ArrayList<Integer> moves = new ArrayList<>();
+            for (char c: ch){
+                if (field.containsKey(c)) {
+                    moves.add(field.get(c));
+                } else if (c == '-'){
+                    continue;
+                } else {
+                    moves.add(Character.getNumericValue(c));
                 }
             }
+
+            result = (Math.abs((moves.get(0) - moves.get(2)) * (moves.get(1) - moves.get(3))) == 2)? "YES" : "NO";
 
         } else {
             result = "ERROR";
