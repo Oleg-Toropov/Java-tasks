@@ -5,40 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82d18727-43bc-4934-a488-397162825ff2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task_132/WorstDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_132/WorstDivisor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_133/FibonacciAgain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_134/Numerologist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_135/Clothes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_136/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_137/PalindromicTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_138/Traps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_139/Fire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_140/HoppingTrip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_141/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_142/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_143/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_144/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_145/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_146/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_147/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_148/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_149/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_150/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_141/ShiftOfPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_142/UnpackingString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_143/RuneWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_144/Alphabet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_144/Alphabet2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_145/EquationForFiveClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_146/FriendlyNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_147/SimilarArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_131/Chess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_131/Chess.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_132/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_132/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_133/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_133/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_134/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_134/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_135/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_135/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_136/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_136/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_137/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_137/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_138/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_138/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_139/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_139/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_140/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_140/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_141/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_141/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_142/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_142/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_143/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_143/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_144/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_144/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_145/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_145/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_146/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_146/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_147/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_147/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,16 +51,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last.edited.regexp": "Sample Text",
-    "last_opened_file_path": "C:/Users/HP-User/Desktop/Java-tasks/src"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last.edited.regexp&quot;: &quot;Sample Text&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP-User/Desktop/Обучение JAVA 12.2023/IdeaProjects старое/02. Java продвинутая&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP-User\Desktop\Java-tasks\src" />

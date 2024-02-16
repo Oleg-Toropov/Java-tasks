@@ -134,6 +134,13 @@
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_138" target="_blank">Ловушки</a> (24%)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_139" target="_blank">Костер</a> (24%)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_140" target="_blank">Прыгучее путешествие</a> (24%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_141" target="_blank">Сдвиг перестановки</a> (24%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_142" target="_blank">Распаковка строки</a> (25%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_143" target="_blank">Рунные слова</a> (25%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_144" target="_blank">Алфавит</a> (25%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_145" target="_blank">Уравнение для 5 класса!</a> (25%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_146" target="_blank">Дружные числа</a> (25%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_147" target="_blank">Похожие массивы</a> (25%)</li>
 
 
 </ol>
