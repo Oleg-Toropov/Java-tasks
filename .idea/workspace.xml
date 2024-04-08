@@ -5,25 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82d18727-43bc-4934-a488-397162825ff2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Task_141/ShiftOfPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_142/UnpackingString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_143/RuneWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_144/Alphabet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_144/Alphabet2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_145/EquationForFiveClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_146/FriendlyNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_147/SimilarArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_148/TableMultiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_149/NumbersWithoutIdenticalDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_149/NumbersWithoutIdenticalDigits2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_150/ClockStriking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_152/AmazingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_152/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_153/Circles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_153/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_154/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_154/SimpleSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_155/BitRevers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_155/BitRevers2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_155/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_156/BeautifulWall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task_156/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_5/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_141/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_141/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_142/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_142/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_143/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_143/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_144/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_144/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_145/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_145/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_146/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_146/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_147/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_147/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_148/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_148/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_149/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_149/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task_150/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_150/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +58,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2bPDW7BiCCZL0HGteVJPCOBJsuN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,27 +69,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last.edited.regexp&quot;: &quot;Sample Text&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP-User/Desktop/Обучение JAVA 12.2023/IdeaProjects старое/02. Java продвинутая&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Main.executor": "Run",
+    "Application.MaximizeSumWithPriority.executor": "Run",
+    "Application.NumbersWithoutIdenticalDigits.executor": "Run",
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last.edited.regexp": "Sample Text",
+    "last_opened_file_path": "C:/Users/user1/Desktop/Java/Java-tasks/src/Tinkoff_5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\HP-User\Desktop\Java-tasks\src" />
-      <recent name="C:\Users\HP-User\Desktop\Java-tasks\src\Task_100" />
-      <recent name="C:\Users\HP-User\Desktop\Java-tasks\src\Task_81" />
-      <recent name="C:\Users\HP-User\Desktop\Java-tasks\src\Task_80" />
-      <recent name="C:\Users\HP-User\Desktop\Java-tasks\src\Task_79" />
+      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Tinkoff_5" />
+      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Tinkoff_4" />
+      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Tinkoff_3" />
+      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Tinkoff_2" />
+      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Tinkoff_1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP-User\Desktop\Java-tasks\src" />
       <recent name="C:\Users\HP-User\Desktop\Java-tasks" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Tinkoff_4" />
+      <recent name="Tinkoff_5" />
+      <recent name="Tinkoff_4_1" />
+      <recent name="Tinkoff_3" />
+      <recent name="Tinkoff_2" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -81,8 +129,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706107851820</updated>
+      <workItem from="1708439296344" duration="135000" />
+      <workItem from="1711548166143" duration="124000" />
+      <workItem from="1712464478911" duration="57057000" />
+      <workItem from="1712586190303" duration="8680000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

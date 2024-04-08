@@ -141,6 +141,19 @@
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_145" target="_blank">Уравнение для 5 класса!</a> (25%)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_146" target="_blank">Дружные числа</a> (25%)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_147" target="_blank">Похожие массивы</a> (25%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_148" target="_blank">Таблица умножения</a> (25%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_149" target="_blank">Числа без одинаковых цифр</a> (25%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_150" target="_blank">Часы с боем</a> (25%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_152" target="_blank">К-удивительные числа</a> (25%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_153" target="_blank">Окружности</a> (25%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_154" target="_blank">Несложная сортировка</a> (25%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_155" target="_blank">Бит-реверс</a> (25%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Task_156" target="_blank">Красивая стена</a> (25%)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Tinkoff_1" target="_blank">Тинькофф (1 задание)</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Tinkoff_2" target="_blank">Тинькофф (2 задание)</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Tinkoff_3" target="_blank">Тинькофф (3 задание)</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Tinkoff_4" target="_blank">Тинькофф (4 задание)</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Tinkoff_5" target="_blank">Тинькофф (5 задание)</a> (?)</li>
 
 
 </ol>
