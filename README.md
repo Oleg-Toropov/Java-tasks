@@ -154,6 +154,8 @@
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Tinkoff_3" target="_blank">Тинькофф (3 задание)</a> (?)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Tinkoff_4" target="_blank">Тинькофф (4 задание)</a> (?)</li>
     <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Tinkoff_5" target="_blank">Тинькофф (5 задание)</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Tinkoff_6" target="_blank">Тинькофф (6 задание)</a> (?)</li>
+    <li><a href="https://github.com/Oleg-Toropov/Java-tasks/tree/main/src/Tinkoff_7" target="_blank">Тинькофф (7 задание)</a> (?)</li>
 
 
 </ol>

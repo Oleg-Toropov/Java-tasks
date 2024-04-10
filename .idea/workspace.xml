@@ -5,40 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82d18727-43bc-4934-a488-397162825ff2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_148/TableMultiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_149/NumbersWithoutIdenticalDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_149/NumbersWithoutIdenticalDigits2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_150/ClockStriking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_152/AmazingNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_152/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_153/Circles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_153/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_154/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_154/SimpleSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_155/BitRevers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_155/BitRevers2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_155/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_156/BeautifulWall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task_156/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tinkoff_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tinkoff_1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tinkoff_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tinkoff_2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tinkoff_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tinkoff_3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tinkoff_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tinkoff_4/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tinkoff_5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tinkoff_5/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_6/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_7/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_148/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_148/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_149/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_149/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task_150/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task_150/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +45,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Main.executor": "Run",
+    "Application.Main1.executor": "Run",
     "Application.MaximizeSumWithPriority.executor": "Run",
     "Application.NumbersWithoutIdenticalDigits.executor": "Run",
     "Application.Test.executor": "Run",
@@ -84,34 +57,34 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last.edited.regexp": "Sample Text",
-    "last_opened_file_path": "C:/Users/user1/Desktop/Java/Java-tasks/src/Tinkoff_5",
+    "last_opened_file_path": "C:/Users/user1/Desktop/Java/Java-tasks/src/Tinkoff_7",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "inlay.hints",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Tinkoff_7" />
+      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Tinkoff_6" />
+      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src" />
       <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Tinkoff_5" />
       <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Tinkoff_4" />
-      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Tinkoff_3" />
-      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Tinkoff_2" />
-      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Tinkoff_1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\HP-User\Desktop\Java-tasks\src" />
       <recent name="C:\Users\HP-User\Desktop\Java-tasks" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Tinkoff_7" />
       <recent name="Tinkoff_4" />
       <recent name="Tinkoff_5" />
       <recent name="Tinkoff_4_1" />
       <recent name="Tinkoff_3" />
-      <recent name="Tinkoff_2" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -132,7 +105,9 @@
       <workItem from="1708439296344" duration="135000" />
       <workItem from="1711548166143" duration="124000" />
       <workItem from="1712464478911" duration="57057000" />
-      <workItem from="1712586190303" duration="8680000" />
+      <workItem from="1712586190303" duration="28975000" />
+      <workItem from="1712665523137" duration="29238000" />
+      <workItem from="1712762531751" duration="9036000" />
     </task>
     <servers />
   </component>
