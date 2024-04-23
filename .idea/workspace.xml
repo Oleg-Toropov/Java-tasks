@@ -5,12 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="82d18727-43bc-4934-a488-397162825ff2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Tinkoff_4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tinkoff_6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tinkoff_6/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tinkoff_7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tinkoff_7/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_1_summer_2024/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_1_summer_2024/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_2_summer_2024/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_2_summer_2024/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_3_summer_2024/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_3_summer_2024/Main_first.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_3_summer_2024/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_4_summer_2024/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_4_summer_2024/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_5_summer_2024/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_5_summer_2024/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_6_summer_2024/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_6_summer_2024/Main_first.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tinkoff_6_summer_2024/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Yandex_school_2024_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Yandex_school_2024_1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Yandex_school_2024_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Yandex_school_2024_2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Yandex_school_2024_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Yandex_school_2024_3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Yandex_school_2024_4/D1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Yandex_school_2024_4/D2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Yandex_school_2024_4/D3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Yandex_school_2024_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Yandex_school_2024_4/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Yandex_school_2024_4/Test_with_comments.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_2/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_3/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_3/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_4/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_5/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_5/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tinkoff_6/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tinkoff_6/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,11 +73,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Main.executor": "Run",
+    "Application.D.executor": "Run",
+    "Application.D1.executor": "Profiler#1",
+    "Application.D2.executor": "Profiler#1",
+    "Application.D3.executor": "Profiler#1",
+    "Application.Find.executor": "Run",
+    "Application.Main.executor": "Profiler#1",
     "Application.Main1.executor": "Run",
+    "Application.Main2.executor": "Run",
     "Application.MaximizeSumWithPriority.executor": "Run",
     "Application.NumbersWithoutIdenticalDigits.executor": "Run",
     "Application.Test.executor": "Run",
+    "Application.Test2.executor": "Run",
+    "Application.Test3.executor": "Run",
+    "Application.Test_with_comments.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -57,7 +95,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last.edited.regexp": "Sample Text",
-    "last_opened_file_path": "C:/Users/user1/Desktop/Java/Java-tasks/src/Tinkoff_7",
+    "last_opened_file_path": "C:/Users/user1/Desktop/Java/Java-tasks/src/Yandex_school_2024_3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,22 +107,22 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Tinkoff_7" />
-      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Tinkoff_6" />
-      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src" />
-      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Tinkoff_5" />
-      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Tinkoff_4" />
+      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Yandex_school_2024_3" />
+      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Yandex_school_2024_4" />
+      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Yandex_2" />
+      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Yandex_1" />
+      <recent name="C:\Users\user1\Desktop\Java\Java-tasks\src\Tinkoff_6_summer_2024" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\HP-User\Desktop\Java-tasks\src" />
       <recent name="C:\Users\HP-User\Desktop\Java-tasks" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Tinkoff_7" />
-      <recent name="Tinkoff_4" />
-      <recent name="Tinkoff_5" />
-      <recent name="Tinkoff_4_1" />
-      <recent name="Tinkoff_3" />
+      <recent name="Yandex_school_2024_5" />
+      <recent name="Yandex_school_2024_4" />
+      <recent name="Yandex_school_2024_3" />
+      <recent name="Yandex_2" />
+      <recent name="Yandex_1" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -107,7 +145,17 @@
       <workItem from="1712464478911" duration="57057000" />
       <workItem from="1712586190303" duration="28975000" />
       <workItem from="1712665523137" duration="29238000" />
-      <workItem from="1712762531751" duration="9036000" />
+      <workItem from="1712762531751" duration="10227000" />
+      <workItem from="1713205069015" duration="8035000" />
+      <workItem from="1713238445488" duration="39111000" />
+      <workItem from="1713334199447" duration="6138000" />
+      <workItem from="1713358931936" duration="789000" />
+      <workItem from="1713373314774" duration="1617000" />
+      <workItem from="1713420261609" duration="9428000" />
+      <workItem from="1713451342784" duration="20083000" />
+      <workItem from="1713508692580" duration="41298000" />
+      <workItem from="1713797771546" duration="20379000" />
+      <workItem from="1713857761210" duration="3662000" />
     </task>
     <servers />
   </component>
@@ -135,6 +183,11 @@
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Yandex_school_2024_5/Main.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
