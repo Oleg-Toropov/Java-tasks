@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="82d18727-43bc-4934-a488-397162825ff2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_internship_2024_1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_internship_2024_1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_internship_2024_2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_internship_2024_2/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_internship_2024_3/3.1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_internship_2024_3/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_internship_2024_3/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_internship_2024_4/4.1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_internship_2024_4/4.2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_internship_2024_4/4.3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_internship_2024_4/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_internship_2024_4/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_internship_2024_5/5.1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_internship_2024_5/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_internship_2024_5/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_school_2024_1/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_school_2024_1/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_school_2024_2/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_school_2024_2/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_school_2024_3/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_school_2024_3/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_school_2024_4/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Yandex_school_2024_4/README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="82d18727-43bc-4934-a488-397162825ff2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -184,7 +157,7 @@
       <workItem from="1714638590766" duration="696000" />
       <workItem from="1714947400268" duration="5803000" />
       <workItem from="1714955087457" duration="2117000" />
-      <workItem from="1714985939121" duration="1657000" />
+      <workItem from="1714985939121" duration="1999000" />
     </task>
     <servers />
   </component>
